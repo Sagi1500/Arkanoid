@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="biuoop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/biuoop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
